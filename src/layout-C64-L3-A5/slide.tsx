@@ -122,7 +122,7 @@ const Slide = () => {
             <SwiperSlide>
               <div className="grid grid-cols-12 gap-10 place-items-center p-3">
                 <div className="col-span-6 w-full flex justify-center items-center">
-                  <MyImage path="/C64Image" />
+                  <MyImage path="/C64Images/Combinator.jpg" />
                 </div>
                 <div className="col-span-6 w-full">
                   <ul className="list-disc space-y-3">
@@ -145,7 +145,7 @@ const Slide = () => {
               <div className="grid grid-cols-12 gap-10 place-items-center p-3">
 
                 <div className="col-span-12 w-full flex justify-center items-center ">
-                  <MyImage path="/C64Images"/>
+                  <MyImage path="/C64Images/Product.jpg"/>
                 </div>
                 <div className="col-span-12 w-[60%]">
                   <h4 className="text-2xl font-bold text-center">
@@ -192,7 +192,7 @@ const Slide = () => {
               <div className="grid grid-cols-12 gap-10 place-items-center p-3">
 
                 <div className="col-span-6 w-full flex justify-center items-center ">
-                  <MyImage path="/C64Images"/>
+                  <MyImage path="/C64Images/Presentation.png"/>
                 </div>
                 
 
